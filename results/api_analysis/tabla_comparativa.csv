@@ -1,0 +1,3 @@
+api,requests,errors,error_rate_pct,mean_latency_ms,median_latency_ms,p95_latency_ms,throughput_success_req_s,total_seconds
+REST,300,0,0.0,23.035,20.642,40.567,43.41,6.911
+GraphQL,300,0,0.0,29.07,26.918,49.755,34.4,8.7215

@@ -1,0 +1,2 @@
+﻿lambda_mean_s,kappa_mean_s,difference_kappa_minus_lambda_s,descriptive_time_reduction_pct,time_ratio_kappa_over_lambda,bootstrap_ci95_lower_pct,bootstrap_ci95_upper_pct,bootstrap_iterations,seed
+0.067192,0.183805,0.116613,63.443773,2.735512,59.706822,66.839230,20000,2026

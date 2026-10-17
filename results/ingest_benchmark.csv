@@ -1,0 +1,11 @@
+architecture,run,records,elapsed_seconds,records_per_second
+Lambda_simplificada,1,10000,0.04035,247830.86
+Lambda_simplificada,2,10000,0.06275,159362.8
+Lambda_simplificada,3,10000,0.064496,155047.41
+Lambda_simplificada,4,10000,0.086854,115135.48
+Lambda_simplificada,5,10000,0.077675,128741.88
+Kappa_simplificada,1,10000,0.43699,22883.8
+Kappa_simplificada,2,10000,0.431444,23177.99
+Kappa_simplificada,3,10000,0.341245,29304.47
+Kappa_simplificada,4,10000,0.273635,36545.06
+Kappa_simplificada,5,10000,0.20108,49731.4

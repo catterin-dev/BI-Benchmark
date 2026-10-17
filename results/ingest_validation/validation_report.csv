@@ -1,0 +1,5 @@
+﻿check,status,details
+Cantidad de registros,APROBADO,Entrada=10000; Lambda=10000; Kappa=10000
+Equivalencia registro por registro,APROBADO,Todos los registros y campos coinciden.
+Equivalencia de resumenes,APROBADO,Totales y categorias coinciden.
+Idempotencia de Lambda,APROBADO,Reprocesar los ultimos eventos no cambio la base de datos.

@@ -1,0 +1,3 @@
+﻿architecture,repetitions,records_per_run,mean_time_s,median_time_s,std_time_s,min_time_s,max_time_s,mean_records_per_second,median_records_per_second,std_records_per_second,cv_time_pct
+Kappa_simplificada,30,10000.000000,0.158966,0.144713,0.060704,0.118768,0.385195,67572.630667,69103.065000,13305.608558,38.186995
+Lambda_simplificada,30,10000.000000,0.049349,0.043450,0.018322,0.033924,0.111763,219001.842333,230152.490000,48242.459248,37.126718
