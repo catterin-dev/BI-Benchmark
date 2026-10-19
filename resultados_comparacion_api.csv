@@ -1,0 +1,3 @@
+﻿API,Muestras,Exitosas,Fallidas,Errores (%),Promedio (ms),Mediana (ms),P95 (ms),Mínimo (ms),Máximo (ms),Solicitudes/segundo
+REST,50,50,0,0.0,18.94,18.0,24.0,10,50,11.98
+GraphQL,50,50,0,0.0,30.94,28.0,38.55,20,143,11.68
