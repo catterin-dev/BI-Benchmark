@@ -1,4 +1,5 @@
 # BI Benchmark: ingesta Lambda/Kappa y API REST/GraphQL
+**Autor:** Catterine Carely Quispe Quispe
 
 Proyecto académico reproducible para comparar prototipos locales de ingesta analítica y API sobre SQLite.
 
